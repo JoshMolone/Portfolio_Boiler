@@ -6006,6 +6006,8 @@ button.bg-primary:focus {
 
 .bg-secondary {
   background-color: #00cfd5 !important;
+  border-color:#0f6674;
+  border-style: inset;
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
